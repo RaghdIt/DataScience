@@ -11,10 +11,10 @@ This project aims to analyze YouTube trending videos to understand the factors i
 
 
 ## Team:
-Raghd Hassan 
-Raseel almanea 
-Njood Alowaidah 
-Lujain Alhusan 
+Raghd Hassan | 
+Raseel almanea |
+Njood Alowaidah |
+Lujain Alhusan |
 Alya Althobiani 
 
 
